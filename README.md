@@ -1,6 +1,7 @@
 # kuis
 
-A new Flutter project.
+Vincentius Willy Ardiyanto / 123190100 /Plug-B
+<br>Mohon maaf mas kurang maksimal.
 
 ## Getting Started
 
